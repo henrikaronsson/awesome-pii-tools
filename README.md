@@ -52,6 +52,7 @@ Generate realistic fake values to substitute for real ones.
 - [Faker.js](https://github.com/faker-js/faker) - Community-maintained fake data generator for JavaScript/TypeScript.
 - [kotlin-faker](https://github.com/serpro69/kotlin-faker) - Fake data generation for Kotlin and the JVM.
 - [Mimesis](https://github.com/lk-geimfari/mimesis) - High-performance fake data generator for Python with strong locale support and schema-based generation.
+- [Mock Jutsu](https://github.com/altansayan/mock-jutsu-api) - Checksum-valid financial and identity test data generator (IBAN MOD-97, Luhn cards, TCKN, ISIN), plus real registered BIC/SWIFT codes - unlike format-only fakers, every value passes real validation. CLI, Python SDK, Java library (Maven Central), REST API, and JMeter plugin.
 
 ## Synthetic Data
 
