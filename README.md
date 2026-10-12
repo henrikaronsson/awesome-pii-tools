@@ -71,6 +71,7 @@ Strip sensitive data from prompts, training data, and model outputs.
 - [LLMAIx / LLM-Anonymizer](https://github.com/KatherLab/LLMAIx) - De-identifies clinical documents using locally hosted LLMs, demonstrating that on-prem models can match or beat rule-based PHI redaction (published in NEJM AI).
 - [Awesome Anonymization for LLMs](https://github.com/malteos/awesome-anonymization-for-llms) - Curated resources for PII detection and privacy-preserving techniques specifically in LLM applications — complements this list.
 - [Presidio + GLiNER integration](https://microsoft.github.io/presidio/) - Documented pattern combining Presidio's pipeline management with GLiNER's detection accuracy for production LLM redaction.
+- [MASCHERA](https://github.com/semprerudi/maschera) - Masks personal data in Swiss documents locally before they go to an LLM and restores it in the answer; combines checksums for Swiss identifiers (AHV, UID, IBAN) with a local ModernBERT model, no GPU needed.
 
 ## Differential Privacy
 
