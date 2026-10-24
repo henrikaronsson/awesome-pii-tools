@@ -66,6 +66,7 @@ Generate entirely artificial datasets that preserve statistical properties of th
 
 Strip sensitive data from prompts, training data, and model outputs.
 
+- [AgentRedactor](https://github.com/Negative-Star-Innovators/AgentRedactor) - MIT-licensed local proxy for AI coding agents that redacts PII and secrets using on-device NER and custom rules, then restores original values in responses, including streamed responses.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Toolkit of 35+ input/output scanners for LLM applications, including PII anonymization, secrets detection, and toxicity checks.
 - [Ollama](https://github.com/ollama/ollama) - Run LLMs entirely on your own hardware. The foundation for privacy-preserving PII workflows: sensitive text can be classified, redacted, or rewritten by a local model without ever leaving your perimeter — often the only LLM option compliance will approve.
 - [LLMAIx / LLM-Anonymizer](https://github.com/KatherLab/LLMAIx) - De-identifies clinical documents using locally hosted LLMs, demonstrating that on-prem models can match or beat rule-based PHI redaction (published in NEJM AI).
