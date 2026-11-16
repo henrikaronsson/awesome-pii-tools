@@ -28,6 +28,7 @@ Detect and remove personally identifiable information from unstructured text.
 - [DataFog](https://github.com/DataFog/datafog-python) - Open-source PII detection and anonymization for text pipelines.
 - [GLiNER](https://github.com/urchade/GLiNER) - Zero-shot named entity recognition model widely used for PII detection; PII-specific fine-tunes cover 55+ entity types and can serve as a Presidio backend.
 - [StarPII](https://huggingface.co/bigcode/starpii) - NER model trained to detect PII in source code — names, emails, keys, and secrets in repositories.
+- [newmean-pii](https://github.com/newmean-ai/pii) - Detects and masks PII on the device (browser via WebAssembly, Python, iOS, Android, Flutter) with small multilingual models (2.6–15.5 MB, 54 languages), so the original text never leaves the device.
 
 ## Database Anonymization
 
